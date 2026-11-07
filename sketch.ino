@@ -8,7 +8,7 @@
 #include "DHTesp.h"
 
 // ===================== CONFIGURAÇÃO =====================
-const char* MATRICULA = "0020015378";        // <-- Coloque a sua matrícula aqui!
+const char* MATRICULA = "SUA_MATRICULA";        // <-- Coloque a sua matrícula aqui!
 const char* BROKER    = "broker.hivemq.com";
 const int   PORTA     = 1883;
 const float LIMITE_TEMP = 28.0;                 // Limite escolhido (entre 26 °C e 32 °C)
